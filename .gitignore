@@ -1,0 +1,5 @@
+#Dependencies file
+*.depend
+
+#compiled files
+*.o
